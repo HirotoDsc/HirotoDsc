@@ -1,16 +1,18 @@
-### Hi there 👋
+# Olá! Bem-vindo ao perfil do Hiroto. <img src = "https://cdn.discordapp.com/attachments/750576652290883584/800922070635642900/733558500575281204.gif" width = "28px" alt = "hi">
 
-<!--
-**HirotoDsc/HirotoDsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Bem, muitos que não me conhecem. Prazer, sou Hiroto, sou apenas um estudante de engenharia.
 
-Here are some ideas to get you started:
+### 
+ 🇯🇵 Tóquio, Japão
+#####
+📓 - さて、私はエンジニアリングについてもっと学び、この神秘的な世界について新しいことを発見することに時間を費やすのが好きです。
+####
+🖤 - 14年。
+####
+🔖 - 時々私は読むのが好きです。
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img align = "right" alt = "GIF" height = "400" width = "800" src = "https://github.com/hirot0boyz/image/blob/main/tumblr_psa72bs62w1upcvga_540.gif" /> <br>
+
+#### A galaxy lurks behind my eyes.
