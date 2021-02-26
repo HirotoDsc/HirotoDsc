@@ -6,7 +6,7 @@
 ### 
 <img src = "https://cdn.discordapp.com/attachments/750576652290883584/814839923772882974/az_pdl.png" width = "28px" alt = "hi">  | Tóquio, Japão
 #####
-<img src = "https://cdn.discordapp.com/attachments/750576652290883584/814839923772882974/az_pdl.png" width = "28px" alt = "hi">  | Não tenho muitas coisas para falar sobre minha pessoa, mais podemos dizer que eu gosto de explorar coisas novas.
+<img src = "https://cdn.discordapp.com/attachments/750576652290883584/814839923772882974/az_pdl.png" width = "28px" alt = "hi">  | Não tenho muitas coisas para falar sobre minha pessoa, mais podemos dizer que eu gosto de explorar coisas novas, também pretendo ter mais conhecimento sobre engenharia social.
 ####
 <img src = "https://cdn.discordapp.com/attachments/750576652290883584/814839923772882974/az_pdl.png" width = "28px" alt = "hi">  | 14年。
 ####
