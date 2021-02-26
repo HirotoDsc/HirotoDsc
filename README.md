@@ -13,6 +13,5 @@
 #
 
 
-<img align = "right" alt = "GIF" height = "400" width = "800" src = "https://github.com/hirot0boyz/image/blob/main/tumblr_psa72bs62w1upcvga_540.gif" /> <br>
+<img align = "right" alt = "GIF" height = "400" width = "800" src = "https://github.com/HirotoDsc/zzzzzz/blob/main/ff7c780990c7f867de2061645d9eff86.gif" /> <br>
 
-#### A galaxy lurks behind my eyes.
