@@ -1,6 +1,6 @@
-# Olá! Bem-vindo ao perfil do Hiroto. <img src = "https://cdn.discordapp.com/attachments/750576652290883584/800922070635642900/733558500575281204.gif" width = "28px" alt = "hi">
+# Hiroto. <img src = "https://cdn.discordapp.com/attachments/750576652290883584/800922070635642900/733558500575281204.gif" width = "28px" alt = "hi">
 
-##### Bem, muitos que não me conhecem. Prazer, sou Hiroto, sou apenas um estudante de engenharia.
+##### Bem, muitos que não me conhecem. Prazer, sou Hiroto, sou apenas um estudante querendo acrescentar mais conhecimento.
 
 ### 
  🇯🇵 Tóquio, Japão
