@@ -6,11 +6,11 @@
 ### 
 <img src = "https://cdn.discordapp.com/attachments/750576652290883584/814839923772882974/az_pdl.png" width = "28px" alt = "hi">  | Tóquio, Japão
 #####
-<img src = "https://cdn.discordapp.com/attachments/750576652290883584/814839923772882974/az_pdl.png" width = "28px" alt = "hi">  | さて、私はエンジニアリングについてもっと学び、この神秘的な世界について新しいことを発見することに時間を費やすのが好きです。
+<img src = "https://cdn.discordapp.com/attachments/750576652290883584/814839923772882974/az_pdl.png" width = "28px" alt = "hi">  | Não tenho muitas coisas para falar sobre minha pessoa, mais podemos dizer que eu gosto de explorar coisas novas.
 ####
 <img src = "https://cdn.discordapp.com/attachments/750576652290883584/814839923772882974/az_pdl.png" width = "28px" alt = "hi">  | 14年。
 ####
-<img src = "https://cdn.discordapp.com/attachments/750576652290883584/814839923772882974/az_pdl.png" width = "28px" alt = "hi">  | 時々私は読むのが好きです。
+<img src = "https://cdn.discordapp.com/attachments/750576652290883584/814839923772882974/az_pdl.png" width = "28px" alt = "hi">  | 遊んで、遊んで。
 #
 
 
