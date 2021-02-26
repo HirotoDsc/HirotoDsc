@@ -3,13 +3,13 @@
 ##### Bem, muitos que não me conhecem. Prazer, sou Hiroto, sou apenas um estudante querendo acrescentar mais conhecimento.
 
 ### 
- 🇯🇵 Tóquio, Japão
+<img src = "https://cdn.discordapp.com/attachments/750576652290883584/814839923772882974/az_pdl.png" width = "28px" alt = "hi">  | Tóquio, Japão
 #####
-📓 - さて、私はエンジニアリングについてもっと学び、この神秘的な世界について新しいことを発見することに時間を費やすのが好きです。
+<img src = "https://cdn.discordapp.com/attachments/750576652290883584/814839923772882974/az_pdl.png" width = "28px" alt = "hi">  | さて、私はエンジニアリングについてもっと学び、この神秘的な世界について新しいことを発見することに時間を費やすのが好きです。
 ####
-🖤 - 14年。
+<img src = "https://cdn.discordapp.com/attachments/750576652290883584/814839923772882974/az_pdl.png" width = "28px" alt = "hi">  | 14年。
 ####
-🔖 - 時々私は読むのが好きです。
+<img src = "https://cdn.discordapp.com/attachments/750576652290883584/814839923772882974/az_pdl.png" width = "28px" alt = "hi">  | 時々私は読むのが好きです。
 #
 
 
