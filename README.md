@@ -1,5 +1,7 @@
 # Hiroto. <img src = "https://cdn.discordapp.com/attachments/750576652290883584/800922070635642900/733558500575281204.gif" width = "28px" alt = "hi">
 
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40reduziram)](https://twitter.com/reduziram)
+
 
 ##### Bem, muitos que não me conhecem. Prazer, sou Hiroto, sou apenas um estudante querendo acrescentar mais conhecimento.
 
