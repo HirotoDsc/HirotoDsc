@@ -16,6 +16,10 @@
 <img src = "https://cdn.discordapp.com/attachments/750576652290883584/814839923772882974/az_pdl.png" width = "28px" alt = "hi">  | 遊んで、遊んで。
 #
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HirotoDsc&theme=blue-green)](https://github.com/HirotoDsc/github-readme-stats)
+#
 
 <img align = "right" alt = "GIF" height = "400" width = "800" src = "https://github.com/HirotoDsc/zzzzzz/blob/main/ff7c780990c7f867de2061645d9eff86.gif" /> <br>
+
+
 
