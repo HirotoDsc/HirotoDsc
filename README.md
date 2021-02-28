@@ -22,4 +22,8 @@
 <img align = "right" alt = "GIF" height = "400" width = "800" src = "https://github.com/HirotoDsc/zzzzzz/blob/main/ff7c780990c7f867de2061645d9eff86.gif" /> <br>
 
 
+##### everybody lies, no exeptions.
+#
+
+#### I hope you liked my README, it is a basic not very detailed.
 
