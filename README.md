@@ -4,7 +4,7 @@
 
 
 
-##### Bem, muitos que não me conhecem. Prazer, sou Hiroto, sou apenas um estudante querendo acrescentar mais conhecimento.
+##### ・ Bem, muitos que não me conhecem. Prazer, sou Hiroto, sou apenas um estudante querendo acrescentar mais conhecimento.
 
 ### 
 <img src = "https://cdn.discordapp.com/attachments/750576652290883584/815627189671690290/purple_livroIDD.gif" width = "28px" alt = "hi">  | Tóquio, Japão
