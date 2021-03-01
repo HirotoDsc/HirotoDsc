@@ -1,7 +1,9 @@
 # Hiroto. <img src = "https://cdn.discordapp.com/attachments/750576652290883584/800922070635642900/733558500575281204.gif" width = "28px" alt = "hi">
 
 [![Twitter Badge](https://img.shields.io/badge/-@reduziram-87CEFA?style=flat-square&labelColor=1E90FFcc&logo=twitter&logoColor=DeepSkyBlue&link=https://twitter.com/reduziram?s=09)](https://twitter.com/reduziram) [![Youtube Badge](https://img.shields.io/badge/-Hiroto-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://youtube.com/channel/UC6qGvgchEflco29i6G1ViOg)](https://youtube.com/channel/UC6qGvgchEflco29i6G1ViOg)
+#
 
+<img src = "https://cdn.discordapp.com/attachments/814376242471501855/815802916337221632/14b7c7ef273e2446ddd72c9108d5e8ce6598a4cfr1-1024-576_hq.gif" width = "28px" alt = "hi">
 
 
 ##### Bem, muitos que não me conhecem. Prazer, sou Hiroto, sou apenas um estudante querendo acrescentar mais conhecimento.
