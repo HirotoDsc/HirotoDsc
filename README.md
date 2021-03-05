@@ -20,12 +20,13 @@ meus conhecimentos são bem básicos mas estou pretendendo focar em engenharia r
 
 
 ##### everybody lies, no exeptions.
-#
+
 
 
 ##  *Ouvindo  <img src="https://cdn.discordapp.com/emojis/700898901842198558.gif?v=1&size=40?v=1" width="32px"/>*
 
 <img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="380" />[](https://open.spotify.com/user/96gc5wx70rl3k9x096b70xc3r?si=TDAz25VcS-i-qPEKS1)
+#
 
 
 ###       ・ Finalização:
