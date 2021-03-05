@@ -14,7 +14,7 @@ meus conhecimentos são bem básicos mas estou pretendendo focar em engenharia r
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HirotoDsc&theme=blue-green)](https://github.com/HirotoDsc/github-readme-stats)
 #
 
-<img src = "https://github.com/HirotoDsc/seipa/blob/main/a1783b5fe482af8e453ecb2c0e0ebb0348748057_hq.gif" width = "28px" alt = "hi">
+<img src = "https://github.com/HirotoDsc/seipa/blob/main/a1783b5fe482af8e453ecb2c0e0ebb0348748057_hq.gif" width = "28px" alt = "hi"> 
 
 
 ##### everybody lies, no exeptions.
