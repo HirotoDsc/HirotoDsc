@@ -17,6 +17,8 @@
 ### 
 <img src = "https://cdn.discordapp.com/attachments/750576652290883584/817210686626988032/lc_book.gif" width = "28px" alt = "hi">  ・ Olá Bem Vindos ao meu README, enfim, meu nome é luis e sou um estudante de 14 anos
 meus conhecimentos são bem básicos mas estou pretendendo focar em engenharia reversa no momento.
+#### ・ no momento só quero ficar na engenharia, não quero aprofundar ainda em programação.
+
 #
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HirotoDsc&show_icons=true&theme=dracula)
