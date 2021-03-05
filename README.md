@@ -1,4 +1,12 @@
+  <img align="center" alt="GIF" src="https://github.com/HirotoDsc/HirotoDsc/blob/main/b931a67d0ad86258f2ece26b8d19da95.jpg" height="270px" width="454px"> 
+
+
+
+
+
 ## Hiroto <img src = "https://github.com/HirotoDsc/HirotoDsc/blob/main/Balance.png" width = "28px" alt = "hi">
+
+
 
 [![Twitter Badge](https://img.shields.io/badge/-@reduziram-87CEFA?style=flat-square&labelColor=1E90FFcc&logo=twitter&logoColor=DeepSkyBlue&link=https://twitter.com/reduziram?s=09)](https://twitter.com/reduziram) [![Youtube Badge](https://img.shields.io/badge/-Hiroto-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://youtube.com/channel/UC6qGvgchEflco29i6G1ViOg)](https://youtube.com/channel/UC6qGvgchEflco29i6G1ViOg) [![discord](https://img.shields.io/badge/Discord-purple?style=for-the-badge)](https://discord.com/) 
 
