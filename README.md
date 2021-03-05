@@ -11,7 +11,7 @@
 meus conhecimentos são bem básicos mas estou pretendendo focar em engenharia reversa no momento.
 #
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HirotoDsc&theme=blue-green)](https://github.com/HirotoDsc/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HirotoDsc&show_icons=true&theme=dracula)
 #
 
 
