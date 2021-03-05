@@ -32,11 +32,9 @@ meus conhecimentos são bem básicos mas estou pretendendo focar em engenharia r
 
 
 #
-<img align="center" alt="GIF" src="https://github.com/HirotoDsc/seipa/blob/main/a1783b5fe482af8e453ecb2c0e0ebb0348748057_hq.gif" height="280px" width="454px"> 
+<img align="center" alt="GIF" src="https://github.com/HirotoDsc/seipa/blob/main/a1783b5fe482af8e453ecb2c0e0ebb0348748057_hq.gif" height="280px" width="454px">
 
-
-
-##### everybody lies, no exeptions.
+#### 誰もが嘘をつきます、例外はありません。
 
 
 
