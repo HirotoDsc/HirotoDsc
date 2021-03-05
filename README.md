@@ -38,7 +38,7 @@ meus conhecimentos são bem básicos mas estou pretendendo focar em engenharia r
 
 
 #
-<img align="center" alt="GIF" src="https://github.com/HirotoDsc/seipa/blob/main/a1783b5fe482af8e453ecb2c0e0ebb0348748057_hq.gif" height="280px" width="454px">
+<img align="center" alt="GIF" src="https://github.com/HirotoDsc/HirotoDsc/blob/main/547759684a48fba3ca723b25f3b2f4cc0a8e2abar1-500-284_hq.gif" height="280px" width="454px">
 
 #### 誰もが嘘をつきます、例外はありません。
 
