@@ -22,7 +22,17 @@ meus conhecimentos são bem básicos mas estou pretendendo focar em engenharia r
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HirotoDsc&show_icons=true&theme=dracula)
 #
 
+<details>
+<summary> <b> Curiosidades </b> <i> </summary>
 
+#### 🦇 ・ Bom, gosto de ver animes, passar um tempo fora do discord, e também adoro lasanhaKKKKKKKKKKKKKKKKKKK.
+#### agora vou contar como descobrir a engenharia social e de onde me interessei.
+
+#### Estava eu e mais três amigos conversando dai eu vi ou ouvi ( não me recordo muito bem ) falar sobre a engenheira social, fui atrás para saber o que era isso  e acabei gostando e estudando, passava umas duas horas estudando dai parava e ia estudar de noite, e foi assim que eu descobrir.
+</details>
+
+
+#
 <img align="center" alt="GIF" src="https://github.com/HirotoDsc/seipa/blob/main/a1783b5fe482af8e453ecb2c0e0ebb0348748057_hq.gif" height="280px" width="454px"> 
 
 
