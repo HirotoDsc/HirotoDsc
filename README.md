@@ -24,5 +24,5 @@ meus conhecimentos são bem básicos mas estou pretendendo focar em engenharia r
 
 
 ###       ・ Finalização:
-#### I hope you liked my README, it is a basic not very detailed.  <img src = "https://cdn.discordapp.com/attachments/750576652290883584/815626770639224842/adb_florblack.gif" width = "28px" alt = "hi">
+#### Espero que tenham gostado do meu README, é um básico não muito detalhado.  <img src = "https://cdn.discordapp.com/attachments/750576652290883584/815626770639224842/adb_florblack.gif" width = "28px" alt = "hi">
 
