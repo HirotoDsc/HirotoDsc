@@ -23,7 +23,7 @@ meus conhecimentos são bem básicos mas estou pretendendo focar em engenharia r
 #
 
 <details>
-<summary> <b> Curiosidades </b> <i> </summary>
+<summary> <b> Curiosidades <img src = "https://cdn.discordapp.com/attachments/750576652290883584/817411663622963200/YellowTDM19.gif" width = "28px" alt = "hi"> </b> <i> </summary>
 
 #### 🦇 ・ Bom, gosto de ver animes, passar um tempo fora do discord, e também adoro lasanhaKKKKKKKKKKKKKKKKKKK.
 #### agora vou contar como descobrir a engenharia social e de onde me interessei.
