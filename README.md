@@ -7,13 +7,8 @@
 ##### ・ Bem, muitos que não me conhecem. Prazer, sou Hiroto, sou apenas um estudante querendo acrescentar mais conhecimento.
 
 ### 
-<img src = "https://cdn.discordapp.com/attachments/750576652290883584/815627189671690290/purple_livroIDD.gif" width = "28px" alt = "hi">  | Tóquio, Japão
-#####
-<img src = "https://cdn.discordapp.com/attachments/750576652290883584/815627189671690290/purple_livroIDD.gif" width = "28px" alt = "hi">  | Não tenho muitas coisas para falar sobre minha pessoa, mais podemos dizer que eu gosto de explorar coisas novas, também pretendo ter mais conhecimento sobre engenharia social.
-####
-<img src = "https://cdn.discordapp.com/attachments/750576652290883584/815627189671690290/purple_livroIDD.gif" width = "28px" alt = "hi">  | 14年。
-####
-<img src = "https://cdn.discordapp.com/attachments/750576652290883584/815627189671690290/purple_livroIDD.gif" width = "28px" alt = "hi">  | 遊んで、遊んで。
+<img src = "https://cdn.discordapp.com/attachments/750576652290883584/815627189671690290/purple_livroIDD.gif" width = "28px" alt = "hi">  ・ Olá Bem Vindos ao meu README, enfim, meu nome é luis e sou um estudante de 14 anos.
+
 #
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HirotoDsc&theme=blue-green)](https://github.com/HirotoDsc/github-readme-stats)
