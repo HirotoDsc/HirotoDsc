@@ -28,6 +28,10 @@ meus conhecimentos são bem básicos mas estou pretendendo focar em engenharia r
 #### agora vou contar como descobrir a engenharia social e de onde me interessei.
 
 #### Estava eu e mais três amigos conversando dai eu vi ou ouvi ( não me recordo muito bem ) falar sobre a engenheira social, fui atrás para saber o que era isso  e acabei gostando e estudando, passava umas duas horas estudando dai parava e ia estudar de noite, e foi assim que eu descobrir.
+#
+
+<img align="center" alt="GIF" src="https://github.com/HirotoDsc/HirotoDsc/blob/main/source.gif" height="280px" width="454px">
+
 </details>
 
 
