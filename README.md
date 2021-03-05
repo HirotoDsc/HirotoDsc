@@ -1,9 +1,6 @@
   <img align="center" alt="GIF" src="https://github.com/HirotoDsc/HirotoDsc/blob/main/567aa6c501ba8be459bb46866dc87d2f.jpg" height="270px" width="454px"> 
 
 
-
-
-
 ## Hiroto <img src = "https://github.com/HirotoDsc/HirotoDsc/blob/main/Balance.png" width = "28px" alt = "hi">
 
 
